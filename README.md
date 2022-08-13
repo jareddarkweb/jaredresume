@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GitHub Pages
+# Jared Douville
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Cyber Security Resume Resume ._
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -20,7 +20,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 <!--step0
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+whoami: I am a cyber security student , and father from calgary alberta canada
 
 - **Who is this for**: Beginners, students, project maintainers, small businesses.
 - **What you'll learn**: How to build a GitHub Pages site.
